@@ -3,13 +3,11 @@
 :toc-title:          Table of Contents
 :toclevels:          2
 :numbered:
-:data-uri:
 :icons:              font
-:nofooter:
 :listing-caption:
 :source-highlighter: highlightjs
 
-.Preamble
+== Introduction
 Quick introduction to the project. Explain what it is, the functionality, and common usage.
 
 == Status
