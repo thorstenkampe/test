@@ -1,6 +1,6 @@
 = README =
 :toc:                left
-:toc-title:          Table of Contents (for testing)
+:toc-title:          Table of Contents
 :toclevels:          2
 :numbered:
 :icons:              font
