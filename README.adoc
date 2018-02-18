@@ -1,20 +1,30 @@
 = README =
-:toc:                left
-:toc-title:          Table of Contents
-:toclevels:          2
-:numbered:
-:icons:              font
-:listing-caption:
+:toc:       
+:toc-title: Table of Contents
+:sectnums:
+:experimental:
+:icons:     font
 :source-highlighter: highlightjs
 
 == Introduction ==
 Quick introduction to the project. Explain what it is, the functionality, and common usage.
 
+[source, ruby]
+--
+require 'sinatra'
+get '/hi' do
+    "Hello World!"
+end
+--
+
+[WARNING]
+This is a warning
+
 == Status ==
 Current status of project. Optionally include link to changelog
 
 == License ==
-Copy/license information
+THIS SOFTWARE COMES WITHOUT WARRANTY, LIABILITY, OR SUPPORT!
 
 == Requirements ==
 Required items for the project (building, running, etc)
