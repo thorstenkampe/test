@@ -1,16 +1,12 @@
 = README =
 :toc:
-//:sectnums:
+:sectnums:
 :experimental:
 
 ifdef::env-github[]
 This line is only visible if the document is on GitHub.
 GitHub is using Asciidoctor {asciidoctor-version}.
 endif::[]
-
-== Icons ==
-
-TIP: This is a tip
 
 ==  UI macros (button, menu and kbd) ==
 Click btn:[OK]
