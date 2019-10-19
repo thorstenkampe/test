@@ -1,7 +1,6 @@
 = README =
-:toc:
-:sectnums:
-:icons:     font
+//:toc:
+//:sectnums:
 :experimental:
 
 ifdef::env-github[]
