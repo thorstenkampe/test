@@ -1,5 +1,5 @@
 = README =
-//:toc:
+:toc:
 //:sectnums:
 :experimental:
 
@@ -9,10 +9,8 @@ GitHub is using Asciidoctor {asciidoctor-version}.
 endif::[]
 
 == Icons ==
-[TIP]
---
-This is a tip
---
+
+TIP: This is a tip
 
 ==  UI macros (button, menu and kbd) ==
 Click btn:[OK]
