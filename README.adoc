@@ -3,8 +3,6 @@
 :sectnums:
 :experimental:
 ifdef::env-github[]
-This line is only visible if the document is on GitHub.
-GitHub is using Asciidoctor {asciidoctor-version}.
 :tip-caption: :bulb:
 :note-caption: :information_source:
 :important-caption: :heavy_exclamation_mark:
@@ -36,3 +34,8 @@ IMPORTANT: Asciidoctor is awesome, don't forget!
 CAUTION: Don't forget to add the `...-caption` document attributes in the header of the document on GitHub.
 
 WARNING: You have no reason not to use Asciidoctor.
+
+ifdef::env-github[]
+This line is only visible if the document is on GitHub.
+GitHub is using Asciidoctor {asciidoctor-version}.
+endif::[]
